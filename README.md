@@ -28,6 +28,10 @@ This project is a simple React application that fetches data from an API, displa
 
 5. Open http://localhost:5173 in your browser.
 
+6. Deployed Link: 
+   ```bash
+   https://lively-basbousa-4077cf.netlify.app/
+   
 # Assumptions
 - You have a valid Google reCAPTCHA site key.
 - The API https://fakestoreapi.com/products is accessible and reliable.
