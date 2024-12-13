@@ -31,7 +31,7 @@ This project is a simple React application that fetches data from an API, displa
 6. Deployed Link: 
    ```bash
    https://lively-basbousa-4077cf.netlify.app/
-   
+
 # Assumptions
 - You have a valid Google reCAPTCHA site key.
 - The API https://fakestoreapi.com/products is accessible and reliable.
@@ -40,5 +40,5 @@ This project is a simple React application that fetches data from an API, displa
 - Used React's useState and useEffect hooks efficiently to manage state and fetch data.
 - Implemented filtering and pagination without unnecessary re-renders.
 # SEO:
-- Structured the HTML with semantic tags like <h1> for the main heading.
+- Structured the HTML with semantic tags like h1 for the main heading.
 - Content is loaded only after reCAPTCHA verification, which ensures bots cannot access data.
