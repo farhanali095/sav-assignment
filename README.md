@@ -1,8 +1,16 @@
-# React + Vite
+# React App: Pagination, Search, and reCAPTCHA Verification
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that fetches data from an API, displays paginated results with a search filter, and uses Google reCAPTCHA for verification.
 
-Currently, two official plugins are available:
+## **Features**
+- **reCAPTCHA Integration**: Ensures user verification before content is displayed.
+- **Search Functionality**: Filters items based on the search input.
+- **Pagination**: Allows navigating through paginated results.
+- **Responsive Design**: Works well on different screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Setup Instructions**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo-url.git
+   cd your-repo
