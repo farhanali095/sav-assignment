@@ -9,7 +9,7 @@ const App = () => {
   const [isVerified, setIsVerified] = useState(false);
   const itemsPerPage = 10;
 
-  const RECAPTCHA_SITE_KEY = "6LfJVJoqAAAAAD7UlzkkPk9gW8NbB-n8nc18dBun";
+  const RECAPTCHA_SITE_KEY = "6LcXXJsqAAAAADjMPZigtQFaa4aeyff74OItTItF";
 
   useEffect(() => {
     fetch("https://fakestoreapi.com/products")

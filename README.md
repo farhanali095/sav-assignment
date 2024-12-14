@@ -30,7 +30,7 @@ This project is a simple React application that fetches data from an API, displa
 
 6. Deployed Link: 
    ```bash
-   https://lively-basbousa-4077cf.netlify.app/
+   https://amazing-haupia-ae45ab.netlify.app/
 
 # Assumptions
 - You have a valid Google reCAPTCHA site key.
